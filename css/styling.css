@@ -11,9 +11,14 @@ h1 {
 }
 
 .ball {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     border-radius: 50%;
     width: 100px;
     aspect-ratio: 1;
     margin: 40px auto;
     background-color: gray;
+    font-size: 22px;
+    font-weight: bold;
 }
