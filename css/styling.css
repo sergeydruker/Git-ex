@@ -9,3 +9,11 @@ body {
 h1 {
     color: white;
 }
+
+.ball {
+    border-radius: 50%;
+    width: 100px;
+    aspect-ratio: 1;
+    margin: 40px auto;
+    background-color: gray;
+}
