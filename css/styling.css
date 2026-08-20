@@ -18,7 +18,10 @@ h1 {
     width: 100px;
     aspect-ratio: 1;
     margin: 40px auto;
+
     background-color: gray;
     font-size: 22px;
     font-weight: bold;
+
+    transition: 0.5s;
 }
